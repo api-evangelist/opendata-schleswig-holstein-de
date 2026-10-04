@@ -37,7 +37,7 @@ tags:
   - Data Catalog
   - DCAT
   - Government Data
-  - State-Government
+  - State Government
   - Germany
 tags_raw:
   - Open Data
@@ -47,6 +47,7 @@ tags_raw:
   - Government Data
   - State Government
   - Germany
+  - State-Government
 created: '2026-06-04'
 modified: '2026-06-04'
 specificationVersion: '0.23'
